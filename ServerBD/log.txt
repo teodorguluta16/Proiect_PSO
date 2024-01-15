@@ -1,0 +1,35 @@
+2024-01-15 12:19:35, Logare, succes
+2024-01-15 12:20:17, CreareBD, Baza de date creata cu succes
+2024-01-15 12:20:33, Delogare, Client delogat
+
+2024-01-15 12:40:55, CreareCont, succes
+2024-01-15 12:41:18, CreareBD, Baza de date creata cu succes
+2024-01-15 12:41:48, CreareTabela, Baza de date nu exista
+2024-01-15 12:43:38, InserareDate, Date adaugate cu succes
+2024-01-15 12:44:27, SelectareDate, Date selectate cu succes
+2024-01-15 12:45:16, UpdateDate, Data modificate cu succes
+2024-01-15 13:02:48, Logare, succes
+2024-01-15 13:03:12, CreareTabela, Baza de date nu exista
+2024-01-15 13:03:23, Logare, succes
+2024-01-15 13:04:10, InserareDate, Date adaugate cu succes
+2024-01-15 13:04:26, SelectareDate, Date selectate cu succes
+2024-01-15 13:06:01, SelectareDate, Date selectate cu succes
+2024-01-15 13:06:50, CreareBD, Baza de date creata cu succes
+2024-01-15 13:07:11, Logare, succes
+2024-01-15 13:07:22, SelectareDate, Date selectate cu succes
+2024-01-15 13:07:49, Delogare, Client delogat
+2024-01-15 13:07:58, Logare, succes
+2024-01-15 13:08:39, InserareDate, Date adaugate cu succes
+2024-01-15 13:09:29, UpdateDate, Data modificate cu succes
+2024-01-15 13:11:45, Logare, succes
+2024-01-15 13:12:42, Logare, succes
+2024-01-15 13:13:00, SelectareDate, Date selectate cu succes
+2024-01-15 13:14:18, Delogare, Client delogat
+2024-01-15 13:14:26, Logare, succes
+2024-01-15 13:14:55, SelectareDate, Date selectate cu succes
+2024-01-15 13:14:59, StergeRand, Rand sters cu succes
+2024-01-15 13:15:07, SelectareDate, Date selectate cu succes
+2024-01-15 13:15:12, Delogare, Client delogat
+2024-01-15 13:15:30, Logare, succes
+2024-01-15 13:15:42, SelectareDate, Date selectate cu succes
+2024-01-15 13:15:45, Delogare, Client delogat

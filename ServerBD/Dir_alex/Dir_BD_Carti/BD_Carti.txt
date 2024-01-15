@@ -1,0 +1,1 @@
+Autori{ INT  INT  VARCHAR  VARCHAR  DATE }

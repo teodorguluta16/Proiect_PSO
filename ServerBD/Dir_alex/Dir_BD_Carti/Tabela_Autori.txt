@@ -1,0 +1,1 @@
+2  INT  14  INT  Georgescu  VARCHAR  George  VARCHAR  23-07-2010  DATE  

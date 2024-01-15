@@ -1,0 +1,2 @@
+1  INT  Enigma_Otiliei  VARCHAR  Camil_Petrescu  VARCHAR  12-01-2004  DATE  13-07-2006  DATE
+2  INT  Ultima_Noapte  VARCHAR  Camil_Petrescu  VARCHAR  11-03-2008  DATE  11-06-2014  DATE
